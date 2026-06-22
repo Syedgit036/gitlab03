@@ -20,7 +20,7 @@ netdiscover
 Run:
 
 ```bash
-nmap -A -p <target-IP>
+nmap -A -p- <target-IP>
 ```
 
 - Confirm if:
